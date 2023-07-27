@@ -1,2 +1,12 @@
+<h2>Welcome to witchats</h2>
 
-<h2>This is the Readme file of Witchats</h2>
+<p>The website is completely based on core concepts of WordPress and this web application is used by me to publish my own blogs on different topics</p>
+<a href="#">The link of the website</a>
+
+<h6><Sections></h6>
+<ul>
+  <li>Home</li>
+  <li>About</li>
+  <li>Blogs</li>
+  <li>Contact</li>
+</ul>
