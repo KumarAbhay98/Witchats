@@ -11,5 +11,5 @@
   <li>Contact</li>
 </ul>
 
-<h6>NOTICE**</h6>
+<h6 align="center">NOTICE**</h6>
 <p align="center">Soon the website will be live. Its under some final changes</p>
