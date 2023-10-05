@@ -35,8 +35,15 @@ Witchats is hosted and deployed using [ProFreeHost](https://www.profreehost.com)
 
 I value your feedback and suggestions. Feel free to contact me:
 
-- Email: your.email@example.com
-- Website: [www.witchats.com/contact](https://www.witchats.com/contact)
-- Social Media: [@witchats](https://twitter.com/witchats) | [Instagram](https://www.instagram.com/witchats/)
+- Website: [www.witchats.com/contact](https://witchats.liveblog365.com/)
+- Social Media: [Linkedln](https://www.linkedin.com/in/abhay-kumar-6586b220a/) | 
 
 Witchats is your gateway to creativity, self-improvement, and exploration. Enjoy your stay!
+
+
+A treat or a video:)
+
+
+https://github.com/KumarAbhay98/Witchats/assets/92244303/4d893e54-ed20-41de-bac2-f5f3743f68d7
+
+
